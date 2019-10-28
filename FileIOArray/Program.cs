@@ -7,6 +7,9 @@ using System.IO;
 
 namespace FileIOArray
 {
+    /// <summary>
+    /// demo of file IO
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
